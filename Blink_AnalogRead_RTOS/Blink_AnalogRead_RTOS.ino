@@ -6,7 +6,7 @@ void TaskAnalogRead( void *pvParameters );
 
 // the setup function runs once when you press reset or power the board
 void setup() {
-  
+  // setup required for scetch
   // initialize serial communication at 9600 bits per second:
   Serial.begin(9600);
   
